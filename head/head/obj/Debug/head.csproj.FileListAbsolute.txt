@@ -1,0 +1,14 @@
+C:\Users\tommi\Desktop\Visual Studio local projects\head\head\bin\Debug\head.exe.config
+C:\Users\tommi\Desktop\Visual Studio local projects\head\head\bin\Debug\head.exe
+C:\Users\tommi\Desktop\Visual Studio local projects\head\head\bin\Debug\head.pdb
+C:\Users\tommi\Desktop\Visual Studio local projects\head\head\obj\Debug\head.csprojAssemblyReference.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\head\head\obj\Debug\head.csproj.CoreCompileInputs.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\head\head\obj\Debug\head.exe
+C:\Users\tommi\Desktop\Visual Studio local projects\head\head\obj\Debug\head.pdb
+C:\Users\tommi\OneDrive\VS Projects\head\head\bin\Debug\head.exe.config
+C:\Users\tommi\OneDrive\VS Projects\head\head\bin\Debug\head.exe
+C:\Users\tommi\OneDrive\VS Projects\head\head\bin\Debug\head.pdb
+C:\Users\tommi\OneDrive\VS Projects\head\head\obj\Debug\head.csprojAssemblyReference.cache
+C:\Users\tommi\OneDrive\VS Projects\head\head\obj\Debug\head.csproj.CoreCompileInputs.cache
+C:\Users\tommi\OneDrive\VS Projects\head\head\obj\Debug\head.exe
+C:\Users\tommi\OneDrive\VS Projects\head\head\obj\Debug\head.pdb

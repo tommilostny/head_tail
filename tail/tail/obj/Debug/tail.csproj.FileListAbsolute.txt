@@ -1,0 +1,7 @@
+C:\Users\tommi\Desktop\Visual Studio local projects\tail\tail\bin\Debug\tail.exe.config
+C:\Users\tommi\Desktop\Visual Studio local projects\tail\tail\bin\Debug\tail.exe
+C:\Users\tommi\Desktop\Visual Studio local projects\tail\tail\bin\Debug\tail.pdb
+C:\Users\tommi\Desktop\Visual Studio local projects\tail\tail\obj\Debug\tail.csprojAssemblyReference.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\tail\tail\obj\Debug\tail.csproj.CoreCompileInputs.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\tail\tail\obj\Debug\tail.exe
+C:\Users\tommi\Desktop\Visual Studio local projects\tail\tail\obj\Debug\tail.pdb
